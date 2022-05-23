@@ -5,7 +5,7 @@
 // @description  Show the discussion button in osu!web.
 // @author       Teages
 // @match        https://osu.ppy.sh/community/forums/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=ppy.sh
+// @icon         https://osu.ppy.sh/favicon.ico
 // @license      MIT License
 // @grant        GM_addStyle
 // @run-at document-end
